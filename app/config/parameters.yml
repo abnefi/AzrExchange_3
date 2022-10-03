@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: azrexchange
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: in-v3.mailjet.com
+    mailer_user: 630df1605af095881d4917cbbdc625238
+    mailer_password: 62804653cb10484d2ce3e41da391c2a38
+    secret: ThisTokenIsNotSoSecretChangeIt
